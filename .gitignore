@@ -1,6 +1,7 @@
 .DS_Store
 /node_modules
 /servidor-api/node_modules
+/app/dist
 npm-debug.log
 yarn-error.log
 
